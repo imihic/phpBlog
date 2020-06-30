@@ -1,0 +1,68 @@
+body {
+	background-color: #d6d9dd;
+} 
+
+main {
+	margin-top: 3rem;
+}
+main > .container {
+	margin-top: 1rem;
+ 	background-color: white;
+ 	width: 75%;
+}
+.articleTitle {
+	background-color: #ffbe00;
+	color: white;
+	font-size: 1rem;
+}
+.articleTitle p {
+	margin-top: 10px;
+}
+
+.tekst {
+	color: black;
+}
+
+.footer-copyright {
+ 	background-color: grey;
+}
+
+.footer-copyright > .container {
+ 	padding-right: 15px;
+ 	padding-left: 15px;
+}
+
+.navbar-default {
+	background-color: #FFFFFF;
+}
+.navbar {
+	max-height: 3rem;
+	width: 100%;
+}
+.navbar ul {
+	margin: 0 5rem 0 0;
+}
+
+.navbar-brand
+{
+	padding-top: 0;
+	position: relative;
+	width: 145px;
+    background: url(logo.png) no-repeat;
+    height: 2rem; /* height of the navbar */
+    background-size: contain;
+    margin-left: 5rem;
+}
+
+.artikl {
+	padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+main > .sport {
+	margin-top: 1rem;
+}
+
+.img-fluid {
+	width: 100%;
+}
